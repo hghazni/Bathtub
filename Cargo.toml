@@ -1,0 +1,6 @@
+[package]
+name = "bathtub"
+version = "0.1.0"
+authors = ["Harry <harry@wearejh.com>"]
+
+[dependencies]
