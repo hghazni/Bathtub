@@ -10,6 +10,6 @@ fn main() {
     io::stdin().read_line(&mut measurement)
         .expect("Error getting bathtubs");
 
-    println!("You're measurement is: {:?}, {:?}", measurement.trim(), bathtubs);
+    println!("You're measurement is: {}, {}", measurement.trim(), bathtubs);
 
 }
